@@ -2,10 +2,10 @@
 
 #over Jeroen
 
-**Voornaam:** Jeroen
+**Voornaam:** Oscar
 
-**Achternaam:** Slemmer
+**Achternaam:** Petersen
 
-**E-mail adres:** [jslemmer@davinci.nl](Jeroen Slemmer)
+**E-mail adres:** [Oscar Petersen](ozzyp20025@gmail.com)
 
-**Telefoon:** 0612345678
+**Telefoon:** 0620454502
